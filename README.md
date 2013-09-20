@@ -1,6 +1,6 @@
 kTimer是一款简单小巧的倒计时插件。
 
-# params && 参数
+# 参数 & Params
 <table>
     <thead>
         <tr>
@@ -28,7 +28,7 @@ kTimer是一款简单小巧的倒计时插件。
     </tbody>
 </table>
 
-# example && 栗子
+# 栗子 & Example
 15分钟倒计时：
 
 ```javascript
@@ -45,7 +45,7 @@ kTimer是一款简单小巧的倒计时插件。
 ```
 
 
-# changeLog && 更新日志
+# 更新日志 & ChangeLog
 * 2013-05-06 倒计时增加可设置往后时间段
 * 2013-05-06 增加时间结束时回调
 * 2013-05-06 时间格式hh小时可不选
