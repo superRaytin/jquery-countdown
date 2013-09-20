@@ -1,10 +1,32 @@
 kTimer是一款简单小巧的倒计时插件。
 
 # params && 参数
-* format : 'hh : mm : ss', // 时间显示格式，支持HTML标签
-* endTime : '2012/12/31 23:59:59', // 结束时间
-* fromNowOn : 0, // 从当前时间起之后的时间段，单位分钟
-* callback: function(){} // 回调
+<table>
+    <thead>
+        <tr>
+            <th>参 数</th>
+            <th>描 述</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr class="">
+            <td width="150">format</td>
+            <td>格式化显示信息，支持HTML标签，如：还剩 dd 天 hh 时 mm 分 ss 秒</td>
+        </tr>
+        <tr class="">
+            <td width="150">fromNowOn</td>
+            <td>从当前时间起之后的时间段，单位分钟，默认无</td>
+        </tr>
+        <tr class="">
+            <td>endTime</td>
+            <td>结束时间，遵守时间格式如：2012/12/31 23:59:59</td>
+        </tr>
+        <tr class="">
+            <td width="150">callback</td>
+            <td>倒计时结束之后触发的回调</td>
+        </tr>
+    </tbody>
+</table>
 
 # example && 栗子
 15分钟倒计时：
