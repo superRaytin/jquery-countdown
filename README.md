@@ -1,4 +1,7 @@
-kTimer是一款简单小巧的倒计时插件。
+kTimer
+======
+
+> 简洁小巧的jQuery倒计时插件，可自定义倒计时的时间格式，如“剩余时间：dd天 hh小时 mm分钟 ss秒“。
 
 # 参数 & Params
 <table>
